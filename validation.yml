@@ -1,0 +1,3 @@
+rules:
+  hurz:
+    script: value.length < 5
